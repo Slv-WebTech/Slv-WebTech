@@ -7,9 +7,9 @@
                         width="22"
                       />
                     </a> 
-- 👀 I’m interested in Html projects.
+- 👀 I’m interested in Full-Stack projects.
 - 🌱 I’m currently learning full stack website development.
-- 💞️ I’m looking to collaborate in  website development projects.
+- 💞️ I’m looking to collaborate in  web-Applications development projects.
 - 📫 you can contact me anytime on my git profile.
 
 <!---
