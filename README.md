@@ -25,4 +25,4 @@
 Slv1-webpage/Slv1-webpage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[AWS_Certification.pdf](https://github.com/Slv1-webpage/Slv1-webpage/files/8145947/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20220226-53-9s2hsb.pdf)
+- [AWS_Certification.pdf](https://github.com/Slv1-webpage/Slv1-webpage/files/8145947/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20220226-53-9s2hsb.pdf)
