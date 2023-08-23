@@ -4,8 +4,8 @@
                       <img
                         src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
                         alt="vivek sharma's DEV Profile"
-                        height="22"
-                        width="22"
+                        height="26"
+                        width="26"
                       />
                     </a> 
 - 👀 I’m interested in Full-Stack projects.
