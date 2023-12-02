@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Slv1-webpage <span class="inline-flex">
+- 👋 Hi, I’m @Slv1-webTech <span class="inline-flex">
                     <a href="https://dev.to/viveksh76483611">
                       <img
                         src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
