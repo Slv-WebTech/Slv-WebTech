@@ -53,10 +53,10 @@ I have experience working with a variety of technologies and tools, including:
 
 ## 💼 Experience
 
-- **Full-Stack Developer (Trainee)** at PS SoftTech, Gwalior (9 months)
+- **Full-Stack Developer (Trainee)** at PS SoftTech, Gwalior 
   - Worked with the MERN stack to develop and maintain web applications.
   
-- **Full-Stack Web Developer (Trainee)** at Quizaro ExtendedEdge, Bangalore (5 months)
+- **Full-Stack Web Developer (Trainee)** at Quizaro ExtendedEdge, Bangalore 
   - Developed full-stack web applications using the MERN stack.
 
 - **Current Position:** Working at Logzero Technologies, Noida
