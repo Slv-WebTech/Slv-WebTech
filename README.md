@@ -87,13 +87,13 @@ Here are some of my notable projects:
 - **[Dreamy Dwellings](https://github.com/your-username/dreamydwellings)** - Private project for a real estate website, with HTML.
 - **[BestMeds Backend](https://github.com/your-username/bestmeds_backend)** - Private backend project for BestMeds, with JavaScript.
 - **[Job Ticket Backend](https://github.com/your-username/job-ticket-backend)** - Private backend project for job ticketing, with JavaScript.
-- **[Consultancy Website](https://github.com/your-username/consultancy-website)** - Public project for a consultancy website, with JavaScript.
-- **[RGPV Hackathon](https://github.com/your-username/RGPV-Hackathon)** - Public project created for the RGPV Hackathon, with HTML and JavaScript.
-- **[Swarn Project](https://github.com/your-username/Swarn-Project)** - Public project, details not provided.
-- **[Daily Attendance](https://github.com/your-username/daily-attendance)** - Public project for tracking daily attendance, with HTML.
+- **[Consultancy Website](https://slv-webtech.github.io/consultancy-website/)** - Public project for a consultancy website, with JavaScript.
+- **[RGPV Hackathon](https://slv-webtech.github.io/RGPV-Hackathon/)** - Public project created for the RGPV Hackathon, with HTML and JavaScript.
+- **[Swarn Project](https://slv-webtech.github.io/Swarn-Project/)** - Public project, details not provided.
+- **[Daily Attendance](https://slv-webtech.github.io/Daily-Attendence/)** - Public project for tracking daily attendance, with HTML.
 - **[Quizaro Backend](https://github.com/your-username/quizaro_backend)** - Private backend project for Quizaro, with JavaScript.
 - **[Admin Quizaro](https://github.com/your-username/admin-quizaro)** - Private project for admin dashboard of Quizaro, with JavaScript.
-- **[E-Commerce Website](https://github.com/your-username/E-Commerce_Website)** - Public project for an e-commerce website, with HTML.
+- **[E-Commerce Website](https://slv-webtech.github.io/E-Commerce_Website/)** - Public project for an e-commerce website, with HTML.
 - **[Restro Project](https://github.com/your-username/restro-project)** - Private project for a restaurant website, with EJS.
 - **[LGMVIP Web 2](https://github.com/your-username/LGMVIP-Web-2)** - Public project, details not provided.
 - **[LGMVIP Web 1](https://slv-webtech.github.io/LGMVIP-Web-1/)** - Public project, details not provided.
