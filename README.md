@@ -96,7 +96,7 @@ Here are some of my notable projects:
 - **[E-Commerce Website](https://github.com/your-username/E-Commerce_Website)** - Public project for an e-commerce website, with HTML.
 - **[Restro Project](https://github.com/your-username/restro-project)** - Private project for a restaurant website, with EJS.
 - **[LGMVIP Web 2](https://github.com/your-username/LGMVIP-Web-2)** - Public project, details not provided.
-- **[LGMVIP Web 1](https://github.com/your-username/LGMVIP-Web-1)** - Public project, details not provided.
+- **[LGMVIP Web 1](https://slv-webtech.github.io/LGMVIP-Web-1/)** - Public project, details not provided.
 - **[Inventory Management](https://github.com/your-username/inventory-management)** - Public project for inventory management, with Python.
 
 ## 📜 Certifications
