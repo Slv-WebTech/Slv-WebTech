@@ -78,26 +78,26 @@ I have experience working with a variety of technologies and tools, including:
 
 Here are some of my notable projects:
 
-- **[TheCapacity](https://github.com/your-username/TheCapacity)** - Private template for managing capacity, built with JavaScript.
-- **[Job Ticket](https://github.com/your-username/job-ticket)** - Private project for managing job tickets, with CSS.
-- **[Railway Project](https://github.com/your-username/railway-project)** - Private project for a railway management system, with HTML.
-- **[ReactRedux](https://github.com/your-username/reactredux)** - Private project utilizing React and Redux.
-- **[Job Ticketing Backend](https://github.com/your-username/job-ticket-backend)** - Private backend project for job ticketing, with JavaScript.
+- **[TheCapacity](https://capacity.irbureau.com/capacity/#/)** - Private template for managing capacity, built with JavaScript.
+- **[Job Ticket]** - Private project for managing job tickets, with CSS.
+- **[Railway Project]** - Private project for a railway management system, with HTML.
+- **[ReactRedux]** - Private project utilizing React and Redux.
+- **[Job Ticketing Backend]** - Private backend project for job ticketing, with JavaScript.
 - **[BestMeds](https://github.com/your-username/bestmeds)** - Private project for an online pharmacy, with JavaScript.
-- **[Dreamy Dwellings](https://github.com/your-username/dreamydwellings)** - Private project for a real estate website, with HTML.
-- **[BestMeds Backend](https://github.com/your-username/bestmeds_backend)** - Private backend project for BestMeds, with JavaScript.
-- **[Job Ticket Backend](https://github.com/your-username/job-ticket-backend)** - Private backend project for job ticketing, with JavaScript.
+- **[Dreamy Dwellings]** - Private project for a real estate website, with HTML.
+- **[BestMeds Backend]** - Private backend project for BestMeds, with JavaScript.
+- **[Job Ticket Backend]** - Private backend project for job ticketing, with JavaScript.
 - **[Consultancy Website](https://slv-webtech.github.io/consultancy-website/)** - Public project for a consultancy website, with JavaScript.
 - **[RGPV Hackathon](https://slv-webtech.github.io/RGPV-Hackathon/)** - Public project created for the RGPV Hackathon, with HTML and JavaScript.
 - **[Swarn Project](https://slv-webtech.github.io/Swarn-Project/)** - Public project, details not provided.
 - **[Daily Attendance](https://slv-webtech.github.io/Daily-Attendence/)** - Public project for tracking daily attendance, with HTML.
-- **[Quizaro Backend](https://github.com/your-username/quizaro_backend)** - Private backend project for Quizaro, with JavaScript.
+- **[Quizaro Backend]** - Private backend project for Quizaro, with JavaScript.
 - **[Admin Quizaro](https://github.com/your-username/admin-quizaro)** - Private project for admin dashboard of Quizaro, with JavaScript.
 - **[E-Commerce Website](https://slv-webtech.github.io/E-Commerce_Website/)** - Public project for an e-commerce website, with HTML.
 - **[Restro Project](https://github.com/your-username/restro-project)** - Private project for a restaurant website, with EJS.
 - **[LGMVIP Web 2](https://github.com/your-username/LGMVIP-Web-2)** - Public project, details not provided.
 - **[LGMVIP Web 1](https://slv-webtech.github.io/LGMVIP-Web-1/)** - Public project, details not provided.
-- **[Inventory Management](https://github.com/your-username/inventory-management)** - Public project for inventory management, with Python.
+- **[Inventory Management]** - Public project for inventory management, with Python.
 
 ## 📜 Certifications
 
