@@ -1,130 +1,160 @@
-# 👋 Hi, I’m @Slv-webTech
+[![MasterHead](https://cdn.imgchest.com/files/b49zczv9wpy.webp)](https://github.com/Slv-webTech)
+<img align="right" alt="Coding" width="400" src="https://cdn.imgchest.com/files/b49zczv9wpy.webp">
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://dev.to/viveksh76483611">
-    <img
-      src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
-      alt="vivek sharma's DEV Profile"
-      height="26"
-      width="26"
-    />
+# Hi there! I'm Vivek Sharma 👋
+
+Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** with a strong foundation in building efficient and user-friendly web applications. With over 2 years of experience in web development, I enjoy transforming ideas into reality through code.
+
+## 🚀 My Tech Stack
+
+---
+
+#### 🎨 Front-end Technologies
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+---
+
+#### ⚙️ Back-end Technologies
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![C++](https://skillicons.dev/icons?i=cpp)
+
+---
+
+#### 🛠️ Tools & Technologies
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime](https://skillicons.dev/icons?i=sublime) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) ![NPM](https://skillicons.dev/icons?i=npm) ![Dev.to](https://skillicons.dev/icons?i=devto)
+
+---
+
+## 💻 Skills
+
+### Frontend Technologies
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Angular
+- Vue.js
+- jQuery
+- Bootstrap
+- Tailwind CSS
+
+### Backend Technologies
+- Node.js
+- Express.js
+- Python
+- Java
+- Ruby on Rails
+- Spring
+
+### Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+- GraphQL
+
+### DevOps & Cloud
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Heroku
+- Continuous Integration/Continuous Deployment (CI/CD)
+
+### Tools & Methodologies
+- Git, GitHub
+- VS Code
+- Figma, Sketch
+- Agile/Scrum methodologies
+
+## 📈 GitHub Stats
+
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
+
+![](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🌱 Current Projects
+
+### 1. **[Gaming Website](https://gaminghelperonline.com)**
+A dynamic platform designed for gaming enthusiasts. Currently working on integrating forms for user interactions with the API.
+
+### 2. **[Survey Platform](https://github.com/Slv-webTech/survey-platform)**
+Collaborating on a survey application utilizing Next.js, TypeScript, and third-party API integration. Aiming to enhance user experience and data collection.
+
+### 3. **[Restaurant Order System](https://github.com/Slv-webTech/restaurant-order-system)**
+Developing an app for restaurants to manage orders efficiently. Additional features are in progress based on user feedback.
+
+## 🌍 Languages and Tools:
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <span>👀 I’m interested in Full-Stack projects.</span>
-</div>
-
-## 🧑‍💻 About Me
-
-Hello! I’m Vivek Sharma, a passionate full-stack web developer with a knack for creating innovative and impactful projects. I have hands-on experience with a variety of technologies and enjoy working on both frontend and backend development. Currently, I'm enhancing my skills in web application development and looking for collaborative opportunities to create amazing web experiences.
-
-- 🌱 I’m currently learning full stack website development.
-- 💞️ I’m looking to collaborate on web application development projects.
-- 📫 You can contact me anytime on my [GitHub profile](https://github.com/Slv1-webpage).
-
-## 🛠 Skills and Technologies
-
-I have experience working with a variety of technologies and tools, including:
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding-left: 20px;">
-  <div>
-    <ul>
-      <li>React.js</li>
-      <li>Node.js</li>
-      <li>React-redux</li>
-      <li>Context API</li>
-      <li>HTML, CSS</li>
-      <li>Git</li>
-      <li>MySQL</li>
-      <li>MUI</li>
-      <li>Tailwind CSS</li>
-    </ul>
-  </div>
-  <div>
-    <ul>
-      <li>C++</li>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <li>Express.js</li>
-      <li>WordPress</li>
-      <li>PHP</li>
-      <li>Google Script</li>
-    </ul>
-  </div>
-</div>
-
-## 💼 Experience
-
-- **Full-Stack Developer (Trainee)** at PS SoftTech, Gwalior 
-  - Worked with the MERN stack to develop and maintain web applications.
-  
-- **Full-Stack Web Developer (Trainee)** at Quizaro ExtendedEdge, Bangalore 
-  - Developed full-stack web applications using the MERN stack.
-
-- **Current Position:** Working at Logzero Technologies, Noida
-  - Utilizing React.js, Node.js, WordPress, HTML, CSS, and Bootstrap to develop web solutions.
-
-- **Projects:** 
-  - Developed 3-4 private projects with the MERN stack.
-  - Created 4 projects using HTML, CSS, and JavaScript.
-
-## 🎓 Education
-
-- **B.Tech in Information Technology** from ITM Gwalior (Graduated in 2023)
-
-## 🏆 Achievements
-
-- **Hacktoberfest Participant:** Participated in Hacktoberfest and won in 2020 and 2021.
-
-## 🌐 Projects
-
-Here are some of my notable projects:
-
-- **[TheCapacity](https://capacity.irbureau.com/capacity/#/)** - Private template for managing capacity, built with JavaScript.
-- **[Job Ticket]** - Private project for managing job tickets, with CSS.
-- **[Railway Project]** - Private project for a railway management system, with HTML.
-- **[ReactRedux]** - Private project utilizing React and Redux.
-- **[Job Ticketing Backend]** - Private backend project for job ticketing, with JavaScript.
-- **[BestMeds](https://github.com/your-username/bestmeds)** - Private project for an online pharmacy, with JavaScript.
-- **[Dreamy Dwellings]** - Private project for a real estate website, with HTML.
-- **[BestMeds Backend]** - Private backend project for BestMeds, with JavaScript.
-- **[Job Ticket Backend]** - Private backend project for job ticketing, with JavaScript.
-- **[Consultancy Website](https://slv-webtech.github.io/consultancy-website/)** - Public project for a consultancy website, with JavaScript.
-- **[RGPV Hackathon](https://slv-webtech.github.io/RGPV-Hackathon/)** - Public project created for the RGPV Hackathon, with HTML and JavaScript.
-- **[Swarn Project](https://slv-webtech.github.io/Swarn-Project/)** - Public project, details not provided.
-- **[Daily Attendance](https://slv-webtech.github.io/Daily-Attendence/)** - Public project for tracking daily attendance, with HTML.
-- **[Quizaro Backend]** - Private backend project for Quizaro, with JavaScript.
-- **[Admin Quizaro](https://github.com/your-username/admin-quizaro)** - Private project for admin dashboard of Quizaro, with JavaScript.
-- **[E-Commerce Website](https://slv-webtech.github.io/E-Commerce_Website/)** - Public project for an e-commerce website, with HTML.
-- **[Restro Project](https://github.com/your-username/restro-project)** - Private project for a restaurant website, with EJS.
-- **[LGMVIP Web 2](https://github.com/your-username/LGMVIP-Web-2)** - Public project, details not provided.
-- **[LGMVIP Web 1](https://slv-webtech.github.io/LGMVIP-Web-1/)** - Public project, details not provided.
-- **[Inventory Management]** - Public project for inventory management, with Python.
-
-## 📜 Certifications
-
-I have obtained several certifications to validate my skills:
-
-<div style="display: flex; flex-direction: column; gap: 10px; padding-left: 20px;">
-  <a href="https://github.com/Slv1-webpage/Slv1-webpage/files/7962988/Vivek.Sharma.Web.intern.pdf" style="color: #28a745;">📄 Vivek Sharma Web Intern Certification</a>
-  <a href="https://github.com/Slv1-webpage/Slv1-webpage/files/8145947/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20220226-53-9s2hsb.pdf" style="color: #28a745;">📄 AWS Certification</a>
-</div>
-
-## 📫 Contact Me
-Feel free to reach out if you are interested in my work or have any questions!
-
-<div style="display: flex; gap: 10px; padding-left: 20px;">
-  <a href="https://github.com/Slv1-webpage" style="color: #333;">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="30" height="30"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@example.com" style="color: #d44638;">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="30" height="30"/>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" style="color: #0077b5;">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/github/issues-raw/Slv1-webpage/Slv1-webpage" alt="Issues">
-  <img src="https://img.shields.io/github/forks/Slv1-webpage/Slv1-webpage" alt="Forks">
-  <img src="https://img.shields.io/github/stars/Slv1-webpage/Slv1-webpage" alt="Stars">
-  <img src="https://img.shields.io/github/license/Slv1-webpage/Slv1-webpage" alt="License">
-</div>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+## 📫 Connect with Me:
+
+### 🌐 Social Media
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/your_twitter_link" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/viveksharma5u/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_link" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/your_youtube_link" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+### 📧 Contact
+Feel free to reach out via email at [viveksupmanyu@gmail.com](mailto:viveksupmanyu@gmail.com).
+
+## 🎨 Design & Creativity
+
+I believe that great design is an essential part of a successful web application. My design philosophy revolves around:
+- **User-Centric Design**: Prioritizing user experience and ensuring accessibility (WCAG compliant).
+- **Responsive Design**: Building applications that look great on all devices, from mobile to desktop.
+
+## 💡 Let's Collaborate
+
+I’m always open to discussing new projects, innovative ideas, and opportunities to learn and grow. Don't hesitate to get in touch!
+
+---
+
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)](https://github.com/Snv-webTech/github-readme-stats)
+
