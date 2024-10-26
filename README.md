@@ -1,13 +1,20 @@
-[![MasterHead](https://cdn.imgchest.com/files/b49zczv9wpy.webp)](https://github.com/Slv-webTech)
-<img align="right" alt="Coding" width="400" src="https://cdn.imgchest.com/files/b49zczv9wpy.webp">
+<a href="https://github.com/Slv-webTech">
+  <img src="https://cdn.imgchest.com/files/b49zczv9wpy.webp" alt="MasterHead" width="100%" style="max-width: 1000px; height: auto;">
+</a>
 
-# Hi there! I'm Vivek Sharma 👋
+## 🌟 Front-End Developer | 2 Years Experience in React.js, Next.js, and JavaScript 🌟
 
-Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** with a strong foundation in building efficient and user-friendly web applications. With over 2 years of experience in web development, I enjoy transforming ideas into reality through code.
+Passionate about creating dynamic web applications, I have a proven track record of enhancing delivery times by **25%** through efficient development practices. My work has received positive feedback from over **100 users**, highlighting my commitment to user satisfaction and quality.
+
+Proficient in **API integration**, **state management**, and collaborating in **cross-functional teams**, I leverage my skills to drive performance and productivity. I am eager to tackle challenging projects and continuously expand my expertise in modern web technologies.
+
+### Key Highlights:
+- **Enhanced Delivery**: Achieved a 25% improvement in delivery times, contributing to a smoother user experience.
+- **User-Centric Development**: Garnered positive feedback from 100+ users, showcasing the impact of my work.
+- **Technical Proficiency**: Strong skills in React.js, Next.js, JavaScript, API integration, and state management.
+- **Collaboration**: Effective teamwork with cross-functional teams to achieve project goals and drive results.
 
 ## 🚀 My Tech Stack
-
----
 
 #### 🎨 Front-end Technologies
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
@@ -23,59 +30,13 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** wi
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime](https://skillicons.dev/icons?i=sublime) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) ![NPM](https://skillicons.dev/icons?i=npm) ![Dev.to](https://skillicons.dev/icons?i=devto)
 
 ---
-
-## 💻 Skills
-
-### Frontend Technologies
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Angular
-- Vue.js
-- jQuery
-- Bootstrap
-- Tailwind CSS
-
-### Backend Technologies
-- Node.js
-- Express.js
-- Python
-- Java
-- Ruby on Rails
-- Spring
-
-### Databases
-- MySQL
-- MongoDB
-- PostgreSQL
-- GraphQL
-
-### DevOps & Cloud
-- Docker
-- Kubernetes
-- AWS
-- Azure
-- Heroku
-- Continuous Integration/Continuous Deployment (CI/CD)
-
-### Tools & Methodologies
-- Git, GitHub
-- VS Code
-- Figma, Sketch
-- Agile/Scrum methodologies
-
-## 📈 GitHub Stats
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech)](https://git.io/streak-stats)
-
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
+![Coding](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
 ![](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## 🌱 Current Projects
 
@@ -158,3 +119,4 @@ I’m always open to discussing new projects, innovative ideas, and opportunitie
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)](https://github.com/Snv-webTech/github-readme-stats)
 
+<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
