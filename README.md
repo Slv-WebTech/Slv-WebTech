@@ -1,6 +1,6 @@
-<a href="https://github.com/Slv-webTech">
-  <img src="https://cdn.imgchest.com/files/b49zczv9wpy.webp" alt="MasterHead" width="100%" style="max-width: 1000px; height: auto;">
-</a>
+![Slv-WebTech](https://github.com/user-attachments/assets/f7003ebc-fcae-4f56-8733-d15076f4b9c1)
+
+
 
 ## 🌟 Front-End Developer | 2 Years Experience in React.js, Next.js, and JavaScript 🌟
 
@@ -17,7 +17,7 @@ Proficient in **API integration**, **state management**, and collaborating in **
 ## 🚀 My Tech Stack
 
 #### 🎨 Front-end Technologies
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![HTML](https://skillicons.dev/icons?i=html)   ![CSS](https://skillicons.dev/icons?i=css)   ![JavaScript](https://skillicons.dev/icons?i=js)   ![React](https://skillicons.dev/icons?i=react)   ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ---
 
@@ -31,10 +31,7 @@ Proficient in **API integration**, **state management**, and collaborating in **
 
 ---
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
-![Coding](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
-![](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
 
 
 
@@ -49,74 +46,44 @@ Collaborating on a survey application utilizing Next.js, TypeScript, and third-p
 ### 3. **[Restaurant Order System](https://github.com/Slv-webTech/restaurant-order-system)**
 Developing an app for restaurants to manage orders efficiently. Additional features are in progress based on user feedback.
 
-## 🌍 Languages and Tools:
+---
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+## 🤝 Connect with Me 📫 
 
-## 📫 Connect with Me:
-
-### 🌐 Social Media
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/your_twitter_link" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+<div>
+  <a href="https://twitter.com/viveksh76483611/" target="_blank" style="margin: 0 25px;">
+    <img src="https://cdn-icons-png.freepik.com/512/2504/2504947.png?ga=GA1.1.567656563.1729960123" alt="Twitter" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
-  <a href="https://www.linkedin.com/in/viveksharma5u/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/viveksharma5u/" target="_blank" style="margin: 0 25px;">
+    <img src="https://cdn-icons-png.freepik.com/512/2504/2504923.png?ga=GA1.1.567656563.1729960123" alt="LinkedIn" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
-  <a href="https://www.instagram.com/your_instagram_link" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/the_r.r_upmanyu_ji.s_son/" target="_blank" style="margin: 0 25px;">
+    <img src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.567656563.1729960123" alt="Instagram" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
-  <a href="https://www.youtube.com/your_youtube_link" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://dev.to/viveksh76483611" target="_blank" style="margin: 0 25px;">
+    <img src="https://shorturl.at/0oOME" alt="vivek sharma's DEV Profile" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
-</p>
+</div>
 
-### 📧 Contact
-Feel free to reach out via email at [viveksupmanyu@gmail.com](mailto:viveksupmanyu@gmail.com).
-
-## 🎨 Design & Creativity
-
-I believe that great design is an essential part of a successful web application. My design philosophy revolves around:
-- **User-Centric Design**: Prioritizing user experience and ensuring accessibility (WCAG compliant).
-- **Responsive Design**: Building applications that look great on all devices, from mobile to desktop.
-
-## 💡 Let's Collaborate
-
-I’m always open to discussing new projects, innovative ideas, and opportunities to learn and grow. Don't hesitate to get in touch!
 
 ---
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)](https://github.com/Snv-webTech/github-readme-stats)
 
-<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+## 📧 Contact
+
+Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.freepik.com/512/732/732200.png?ga=GA1.1.567656563.1729960123" alt="Email" width="25" height="25" />
+</a>
+
+---
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
+
+---
+
+## 💡 Let's Collaborate
+
+I’m always open to discussing new projects, innovative ideas, and opportunities to learn and grow. Don't hesitate to get in touch! 
+
+---
+ ![](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
