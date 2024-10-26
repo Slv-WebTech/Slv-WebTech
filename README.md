@@ -1,49 +1,50 @@
 ![Slv-WebTech](https://github.com/user-attachments/assets/f7003ebc-fcae-4f56-8733-d15076f4b9c1)
 
+# 🌟 Front-End Developer | 2 Years Experience in React.js, Next.js, and JavaScript 🌟
 
-
-## 🌟 Front-End Developer | 2 Years Experience in React.js, Next.js, and JavaScript 🌟
-
-Passionate about creating dynamic web applications, I have a proven track record of enhancing delivery times by **25%** through efficient development practices. My work has received positive feedback from over **100 users**, highlighting my commitment to user satisfaction and quality.
+**Passionate about creating dynamic web applications,** I have a proven track record of enhancing delivery times by **25%** through efficient development practices. My work has received positive feedback from over **100 users**, highlighting my commitment to user satisfaction and quality.
 
 Proficient in **API integration**, **state management**, and collaborating in **cross-functional teams**, I leverage my skills to drive performance and productivity. I am eager to tackle challenging projects and continuously expand my expertise in modern web technologies.
 
-### Key Highlights:
-- **Enhanced Delivery**: Achieved a 25% improvement in delivery times, contributing to a smoother user experience.
-- **User-Centric Development**: Garnered positive feedback from 100+ users, showcasing the impact of my work.
-- **Technical Proficiency**: Strong skills in React.js, Next.js, JavaScript, API integration, and state management.
-- **Collaboration**: Effective teamwork with cross-functional teams to achieve project goals and drive results.
+---
 
-## 🚀 My Tech Stack
+## ✨ Key Highlights:
+- **🚀 Enhanced Delivery:** Achieved a **25%** improvement in delivery times, contributing to a smoother user experience.
+- **🌟 User-Centric Development:** Garnered positive feedback from **100+ users**, showcasing the impact of my work.
+- **🛠️ Technical Proficiency:** Strong skills in **React.js, Next.js, JavaScript**, API integration, and state management.
+- **🤝 Collaboration:** Effective teamwork with cross-functional teams to achieve project goals and drive results.
 
-#### 🎨 Front-end Technologies
+---
+
+## 🧑‍💻 My Tech Stack
+
+### 🎨 Front-end Technologies
 ![HTML](https://skillicons.dev/icons?i=html)   ![CSS](https://skillicons.dev/icons?i=css)   ![JavaScript](https://skillicons.dev/icons?i=js)   ![React](https://skillicons.dev/icons?i=react)   ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ---
 
-#### ⚙️ Back-end Technologies
+### ⚙️ Back-end Technologies
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![C++](https://skillicons.dev/icons?i=cpp)
 
 ---
 
-#### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime](https://skillicons.dev/icons?i=sublime) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) ![NPM](https://skillicons.dev/icons?i=npm) ![Dev.to](https://skillicons.dev/icons?i=devto)
 
 ---
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
 
 ## 🌱 Current Projects
 
-### 1. **[Gaming Website](https://gaminghelperonline.com)**
+### 1. **🎮 [Gaming Website](https://gaminghelperonline.com)**
 A dynamic platform designed for gaming enthusiasts. Currently working on integrating forms for user interactions with the API.
 
-### 2. **[Survey Platform](https://github.com/Slv-webTech/survey-platform)**
-Collaborating on a survey application utilizing Next.js, TypeScript, and third-party API integration. Aiming to enhance user experience and data collection.
+### 2. **📊 [Survey Platform](https://github.com/Slv-webTech/survey-platform)**
+Collaborating on a survey application utilizing **Next.js**, **TypeScript**, and third-party API integration. Aiming to enhance user experience and data collection.
 
-### 3. **[Restaurant Order System](https://github.com/Slv-webTech/restaurant-order-system)**
+### 3. **🍽️ [Restaurant Order System](https://github.com/Slv-webTech/restaurant-order-system)**
 Developing an app for restaurants to manage orders efficiently. Additional features are in progress based on user feedback.
 
 ---
@@ -65,9 +66,7 @@ Developing an app for restaurants to manage orders efficiently. Additional featu
   </a>
 </div>
 
-
 ---
-
 
 ## 📧 Contact
 
@@ -76,7 +75,7 @@ Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" targe
 </a>
 
 ---
-  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
 
 ---
@@ -86,4 +85,5 @@ Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" targe
 I’m always open to discussing new projects, innovative ideas, and opportunities to learn and grow. Don't hesitate to get in touch! 
 
 ---
- ![](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
