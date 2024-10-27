@@ -35,19 +35,41 @@ public struct AboutMe {
 
 ---
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
+----
 
-## 🌱 Current Projects
+## 🌱 Projects
 
-### 1. **🎮 [Gaming Website](https://gaminghelperonline.com)**
-A dynamic platform designed for gaming enthusiasts. Currently working on integrating forms for user interactions with the API.
+<p align="left">
+    <a href="https://slv-webtech.github.io/consultancy-website/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=consultancy-website&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Consultancy Website">
+    </a>&ensp; &emsp;
+    <a href="https://slv-webtech.github.io/RGPV-Hackathon/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=rgpv-hackathon&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="RGPV Hackathon">
+    </a>&ensp; &emsp;
+    <a href="https://slv-webtech.github.io/Swarn-Project/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=swarn-project&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Swarn Project">
+    </a>&ensp; &emsp;
+    <a href="https://slv-webtech.github.io/E-Commerce_Website/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=E-Commerce_Website&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="E-Commerce Website">
+    </a>&ensp; &emsp;
+    <a href="https://github.com/Slv-webTech/LGMVIP-Web-2">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=lgmvip-web-2&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="LGMVIP Web 2">
+    </a>&ensp; &emsp;
+    <a href="https://slv-webtech.github.io/LGMVIP-Web-1/">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=lgmvip-web-1&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="LGMVIP Web 1">
+    </a>&ensp; &emsp;
+    <a href="https://github.com/Slv-webTech/inventory-management">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=inventory-management&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="Inventory Management">
+    </a>
+</p>
 
-### 2. **📊 [Survey Platform](https://github.com/Slv-webTech/survey-platform)**
-Collaborating on a survey application utilizing **Next.js**, **TypeScript**, and third-party API integration. Aiming to enhance user experience and data collection.
+---
 
-### 3. **🍽️ [Restaurant Order System](https://github.com/Slv-webTech/restaurant-order-system)**
-Developing an app for restaurants to manage orders efficiently. Additional features are in progress based on user feedback.
+## GitHub Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Slv-webTech&column=10&theme=matrix)
 
 ---
 
@@ -70,16 +92,17 @@ Developing an app for restaurants to manage orders efficiently. Additional featu
 
 ---
 
+
+[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only)  &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
+![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) 
+
+---
+
 ## 📧 Contact
 
 Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://cdn-icons-png.freepik.com/512/732/732200.png?ga=GA1.1.567656563.1729960123" alt="Email" width="25" height="25" />
 </a>
-
----
-
-[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only) &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
-![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) 
 
 ---
 
