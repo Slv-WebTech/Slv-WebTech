@@ -35,7 +35,7 @@ public struct AboutMe {
 
 ---
 
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark) 
 
 ----
 
