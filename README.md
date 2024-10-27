@@ -49,19 +49,16 @@ public struct AboutMe {
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=medi-gwalior&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="RGPV Hackathon">
     </a>&ensp; &emsp;
     <a href="https://slv-webtech.github.io/Swarn-Project/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=swarn-project&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Swarn Project">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=Swarn-Project&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Swarn Project">
     </a>&ensp; &emsp;
     <a href="https://slv-webtech.github.io/Shop-Now/">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=shop-now&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="E-Commerce Website">
-    </a>&ensp; &emsp;
-    <a href="https://github.com/Slv-webTech/LGMVIP-Web-2">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=lgmvip-web-2&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="LGMVIP Web 2">
     </a>&ensp; &emsp;
     <a href="https://slv-webtech.github.io/Hum-Hai-Na/">
         <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=hum-hai-na&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="LGMVIP Web 1">
     </a>&ensp; &emsp;
     <a href="https://github.com/Slv-webTech/inventory-management">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=inventory-management&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="Inventory Management">
+        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=Inventory-management&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="Inventory Management">
     </a>
 </p>
 
