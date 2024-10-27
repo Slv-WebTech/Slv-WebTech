@@ -21,17 +21,17 @@ public struct AboutMe {
 ## 🧑‍💻 My Tech Stack
 
 ### 🎨 Front-end Technologies
-![HTML](https://skillicons.dev/icons?i=html)   ![CSS](https://skillicons.dev/icons?i=css)   ![JavaScript](https://skillicons.dev/icons?i=js)   ![React](https://skillicons.dev/icons?i=react)   ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![jQuery](https://skillicons.dev/icons?i=jquery) ![Redux](https://skillicons.dev/icons?i=redux) ![Material UI](https://skillicons.dev/icons?i=materialui) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp;  ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp;  ![React](https://skillicons.dev/icons?i=react)  &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ---
 
 ### ⚙️ Back-end Technologies
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![C++](https://skillicons.dev/icons?i=cpp)
+![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
 
 ---
 
 ### 🛠️ Tools & Technologies
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![Sublime](https://skillicons.dev/icons?i=sublime) ![AWS](https://skillicons.dev/icons?i=aws) ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) ![NPM](https://skillicons.dev/icons?i=npm) ![Dev.to](https://skillicons.dev/icons?i=devto)
+![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![Sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Dev.to](https://skillicons.dev/icons?i=devto)
 
 ---
 
@@ -54,16 +54,16 @@ Developing an app for restaurants to manage orders efficiently. Additional featu
 ## 🤝 Connect with Me 📫 
 
 <div>
-  <a href="https://twitter.com/viveksh76483611/" target="_blank" style="margin: 0 25px;">
+  <a href="https://twitter.com/viveksh76483611/" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn-icons-png.freepik.com/512/2504/2504947.png?ga=GA1.1.567656563.1729960123" alt="Twitter" width="35" height="35" style="filter: grayscale(100%);"/>
-  </a>
-  <a href="https://www.linkedin.com/in/viveksharma5u/" target="_blank" style="margin: 0 25px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/viveksharma5u/" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn-icons-png.freepik.com/512/2504/2504923.png?ga=GA1.1.567656563.1729960123" alt="LinkedIn" width="35" height="35" style="filter: grayscale(100%);"/>
-  </a>
-  <a href="https://www.instagram.com/the_r.r_upmanyu_ji.s_son/" target="_blank" style="margin: 0 25px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the_r.r_upmanyu_ji.s_son/" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.567656563.1729960123" alt="Instagram" width="35" height="35" style="filter: grayscale(100%);"/>
-  </a>
-  <a href="https://dev.to/viveksh76483611" target="_blank" style="margin: 0 25px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/viveksh76483611" target="_blank" style="margin: 0 40px;">
     <img src="https://shorturl.at/0oOME" alt="vivek sharma's DEV Profile" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
 </div>
@@ -78,7 +78,8 @@ Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" targe
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&theme=blue-green)
+[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only) 
+ &nbsp;&nbsp;![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
 
 ---
 
@@ -89,3 +90,5 @@ I’m always open to discussing new projects, innovative ideas, and opportunitie
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
+---
+
