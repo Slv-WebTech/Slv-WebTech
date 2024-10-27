@@ -78,8 +78,7 @@ Feel free to reach out via email: <a href="mailto:viveksupmanyu@gmail.com" targe
 
 ---
 
-[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only) 
- &nbsp;&nbsp;![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
+[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only) ![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
 
 ---
 
