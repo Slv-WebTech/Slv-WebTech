@@ -1,19 +1,21 @@
 ![Slv-WebTech](https://github.com/user-attachments/assets/f7003ebc-fcae-4f56-8733-d15076f4b9c1)
-
-# 🌟 Front-End Developer | 2 Years Experience in React.js, Next.js, and JavaScript 🌟
-
-**Passionate about creating dynamic web applications,** I have a proven track record of enhancing delivery times by **25%** through efficient development practices. My work has received positive feedback from over **100 users**, highlighting my commitment to user satisfaction and quality.
-
-Proficient in **API integration**, **state management**, and collaborating in **cross-functional teams**, I leverage my skills to drive performance and productivity. I am eager to tackle challenging projects and continuously expand my expertise in modern web technologies.
-
 ---
 
-## ✨ Key Highlights:
-- **🚀 Enhanced Delivery:** Achieved a **25%** improvement in delivery times, contributing to a smoother user experience.
-- **🌟 User-Centric Development:** Garnered positive feedback from **100+ users**, showcasing the impact of my work.
-- **🛠️ Technical Proficiency:** Strong skills in **React.js, Next.js, JavaScript**, API integration, and state management.
-- **🤝 Collaboration:** Effective teamwork with cross-functional teams to achieve project goals and drive results.
+```javascript
+public struct AboutMe {
+    let name = "Vivek Sharma"
+    var pronouns = ["he", "him"]
 
+    let profession = "Front-End Developer with 2 Years Experience in React.js, Next.js, and JavaScript"
+
+    var keyHighlights = [
+        "🚀 Enhanced Delivery: Achieved a 25% improvement in delivery times, contributing to a smoother user experience.",
+        "🌟 User-Centric Development: Garnered positive feedback from 100+ users, showcasing the impact of my work.",
+        "🛠️ Technical Proficiency: Strong skills in React.js, Next.js, JavaScript, API integration, and state management.",
+        "🤝 Collaboration: Effective teamwork with cross-functional teams to achieve project goals and drive results."
+    ]
+}
+```
 ---
 
 ## 🧑‍💻 My Tech Stack
