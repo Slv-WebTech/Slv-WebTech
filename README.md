@@ -31,7 +31,7 @@ public struct AboutMe {
 ---
 
 ### 🛠️ Tools & Technologies
-![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![Sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Dev.to](https://skillicons.dev/icons?i=devto)
+![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![Sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Dev.to](https://skillicons.dev/icons?i=devto) &nbsp;  ![Notion](https://skillicons.dev/icons?i=notion) &nbsp;  ![WebStrom](https://skillicons.dev/icons?i=webstorm) &nbsp;  ![Android Studion](https://skillicons.dev/icons?i=androidstudio) &nbsp;  ![Figma](https://skillicons.dev/icons?i=figma) 
 
 ---
 
