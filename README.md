@@ -90,8 +90,8 @@ public struct AboutMe {
 ---
 
 
-[![Slv-webTech's GitHub](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true)](https://github.com/Slv-webTech/github-readme-stats#gh-dark-mode-only)  &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
-![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark) 
+[![Slv-webTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true&cache_seconds=1800)](https://github.com/Slv-webTech/github-readme-stats) &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
+![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech&theme=chartreuse-dark)
 
 ---
 
