@@ -6,12 +6,12 @@ public struct AboutMe {
     let name = "Vivek Sharma"
     var pronouns = ["he", "him"]
 
-    let profession = "Front-End Developer with 2 Years Experience in React.js, Next.js, and JavaScript"
+    let profession = "Front-End Developer with 3+ Years Experience in React.js, Next.js, JavaScript, TypeScript"
 
     var keyHighlights = [
-        "🚀 Enhanced Delivery: Achieved a 25% improvement in delivery times, contributing to a smoother user experience.",
+        "🚀 Enhanced Delivery: Achieved a 60% improvement in delivery times, contributing to a smoother user experience.",
         "🌟 User-Centric Development: Garnered positive feedback from 100+ users, showcasing the impact of my work.",
-        "🛠️ Technical Proficiency: Strong skills in React.js, Next.js, JavaScript, API integration, and state management.",
+        "🛠️ Technical Proficiency: Strong skills in React.js, Next.js, JavaScript, TypeScript. API integration, and state management.",
         "🤝 Collaboration: Effective teamwork with cross-functional teams to achieve project goals and drive results."
     ]
 }
