@@ -46,7 +46,7 @@ class VivekSharma implements Engineer {
 
 ### 🌐 Portfolio & Live GitHub Activity
 
-**[the-vivek-sharma.vercel.app](https://the-vivek-sharma.vercel.app)** — case studies, blog, and a dedicated **[GitHub Activity page](https://the-vivek-sharma.vercel.app/github)** with real-time stats, contribution streaks, and top repos pulled live from the GitHub API — no static badge images to go stale.
+**[the-vivek-sharma.vercel.app](https://the-vivek-sharma.vercel.app)** — case studies, blog, and a dedicated **[GitHub Activity page](https://the-vivek-sharma.vercel.app/github)** with real-time stats, contribution streaks, a cross-profile language radar, real GitHub achievement badges, and top repos pulled live from the GitHub API — no static badge images to go stale.
 
 </div>
 
@@ -186,7 +186,7 @@ graph LR
 ![followers](https://img.shields.io/github/followers/Slv-WebTech?style=for-the-badge&label=followers&color=16f2b3&labelColor=0d1224)
 ![stars](https://img.shields.io/github/stars/Slv-WebTech/Shop-Now?style=for-the-badge&label=Shop-Now%20stars&color=16f2b3&labelColor=0d1224)
 
-**Full contribution calendar, current/longest streaks, top languages, and recent activity — live, not a cached image:**
+**Full contribution calendar, current/longest streaks, a Work-vs-Personal language radar, real achievement badges, and recent activity — live, not a cached image:**
 **[the-vivek-sharma.vercel.app/github](https://the-vivek-sharma.vercel.app/github)**
 
 </div>
