@@ -186,7 +186,7 @@ graph LR
 ![followers](https://img.shields.io/github/followers/Slv-WebTech?style=for-the-badge&label=followers&color=16f2b3&labelColor=0d1224)
 ![stars](https://img.shields.io/github/stars/Slv-WebTech/Shop-Now?style=for-the-badge&label=Shop-Now%20stars&color=16f2b3&labelColor=0d1224)
 
-**Full contribution calendar, current/longest streaks, a Work-vs-Personal language radar, real achievement badges, and recent activity — live, not a cached image:**
+**Full contribution calendar, current/longest streaks, a Work-vs-Personal language radar, real achievement badges, live progress toward the next ones (Pull Shark, Starstruck), and recent activity — live, not a cached image:**
 **[the-vivek-sharma.vercel.app/github](https://the-vivek-sharma.vercel.app/github)**
 
 </div>
