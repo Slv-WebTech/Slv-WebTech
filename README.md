@@ -54,17 +54,23 @@ class VivekSharma implements Engineer {
 
 ## 🧑‍💻 Tech Stack
 
-**Primary Stack**
-![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Vite](https://skillicons.dev/icons?i=vite)
+**Languages & Core Runtime**
+![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-**Databases & Caching**
+**Frontend & State**
+![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Vite](https://skillicons.dev/icons?i=vite) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**UI & Design**
+![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
+
+**Data & Distributed Services**
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Also Comfortable With**
-![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
+**Quality & Deployment**
+![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![Docker](https://skillicons.dev/icons?i=docker) &nbsp; ![Jest](https://skillicons.dev/icons?i=jest) &nbsp; ![Webpack](https://skillicons.dev/icons?i=webpack) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![Notion](https://skillicons.dev/icons?i=notion)
 
-**Testing & Tooling**
-![Jest](https://skillicons.dev/icons?i=jest) &nbsp; ![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![Docker](https://skillicons.dev/icons?i=docker) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![Webpack](https://skillicons.dev/icons?i=webpack) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma) &nbsp; ![Notion](https://skillicons.dev/icons?i=notion)
+**Also Comfortable With**
+![Express](https://skillicons.dev/icons?i=express) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Also using:** `React Query` `React Router` `Framer Motion` `React Native` `WebSocket` `OAuth 2.0 / JWT` `BullMQ` `Serverless (Vercel)` `OpenAI API` `React Testing Library` `SonarQube`
 
@@ -88,6 +94,19 @@ class VivekSharma implements Engineer {
 | **inventory-management** | Stock, order, and reporting app for inventory operations | `Python` | [Repo](https://github.com/Slv-WebTech/inventory-management) |
 
 For live star/fork counts, see the [GitHub Activity page](https://the-vivek-sharma.vercel.app/github) — badge-card services here kept going down, so this profile links to real data instead of embedding more of them.
+
+---
+
+## ⚙️ CI/CD Flow
+
+```mermaid
+graph LR
+    A[Push to main] --> B[GitHub Actions: Install]
+    B --> C[Lint]
+    C --> D[Build]
+    D -->|Pass| E[Deploy - Vercel]
+    D -->|Fail| F[Block Merge]
+```
 
 ---
 
