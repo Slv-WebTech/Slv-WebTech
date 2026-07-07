@@ -18,6 +18,12 @@ public struct AboutMe {
 ```
 ---
 
+## 🌐 Portfolio & Live GitHub Activity
+
+**[the-vivek-sharma.vercel.app](https://the-vivek-sharma.vercel.app)** — case studies, blog, and a dedicated **[GitHub Activity page](https://the-vivek-sharma.vercel.app/github)** with real-time stats, contribution streaks, and top repos pulled live from the GitHub API — no static badge images to go stale.
+
+---
+
 ## 🧑‍💻 My Tech Stack
 
 ### 🎨 Front-end Technologies
@@ -41,32 +47,26 @@ public struct AboutMe {
 
 ## 🌱 Projects
 
-<p align="left">
-    <a href="https://slv-webtech.github.io/Business-Consultancy/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=business-consultancy&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Consultancy Website">
-    </a>&ensp; &emsp;
-    <a href="https://slv-webtech.github.io/Medi-Gwalior/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=medi-gwalior&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="RGPV Hackathon">
-    </a>&ensp; &emsp;
-    <a href="https://slv-webtech.github.io/Swarn-Project/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=Swarn-Project&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Swarn Project">
-    </a>&ensp; &emsp;
-    <a href="https://slv-webtech.github.io/Shop-Now/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=shop-now&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="E-Commerce Website">
-    </a>&ensp; &emsp;
-    <a href="https://slv-webtech.github.io/Hum-Hai-Na/">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=hum-hai-na&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="LGMVIP Web 1">
-    </a>&ensp; &emsp;
-    <a href="https://github.com/Slv-webTech/inventory-management">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Slv-webTech&repo=Inventory-management&theme=chartreuse-dark&bg_color=#0d1117&title_color=F85D7F&icon_color=F8D866" alt="Inventory Management">
-    </a>
-</p>
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Shop-Now** | Accessible eCommerce site with speech-to-text browsing and shopping for differently-abled users | HTML/CSS/JS | [Live](https://slv-webtech.github.io/Shop-Now/) · [Repo](https://github.com/Slv-WebTech/Shop-Now) |
+| **Business-Consultancy** | Business consultancy site connecting clients with expert services, built with React + third-party API integration | React | [Live](https://slv-webtech.github.io/Business-Consultancy/) · [Repo](https://github.com/Slv-WebTech/Business-Consultancy) |
+| **Medi-Gwalior** | RGPV Hackathon project — hospital website helping COVID-19 patients find medical resources | HTML/CSS/JS/PHP | [Live](https://slv-webtech.github.io/Medi-Gwalior/) · [Repo](https://github.com/Slv-WebTech/Medi-Gwalior) |
+| **Swarn-Project** | Hotel management site with a responsive room browser and reservation flow | HTML/CSS/JS | [Live](https://slv-webtech.github.io/Swarn-Project/) · [Repo](https://github.com/Slv-WebTech/Swarn-Project) |
+| **Hum-Hai-Na** | Single-page site for an animal welfare NGO | HTML/CSS/JS | [Live](https://slv-webtech.github.io/Hum-Hai-Na/) · [Repo](https://github.com/Slv-WebTech/Hum-Hai-Na) |
+| **inventory-management** | Stock, order, and reporting app for inventory operations | Python | [Repo](https://github.com/Slv-WebTech/inventory-management) |
+
+For live star/fork counts, see the [GitHub Activity page](https://the-vivek-sharma.vercel.app/github) — badge-card services here kept going down, so this profile links to real data instead of embedding more of them.
 
 ---
 
-## GitHub Profile Trophy
+## 📊 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Slv-webTech&column=10&theme=matrix)
+![followers](https://img.shields.io/github/followers/Slv-WebTech?style=flat-square&label=followers&color=16f2b3&labelColor=1a1443) &nbsp; ![stars](https://img.shields.io/github/stars/Slv-WebTech/Shop-Now?style=flat-square&label=Shop-Now%20stars&color=16f2b3&labelColor=1a1443)
+
+![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark)
+
+Full contribution calendar, current/longest streaks, top languages, and recent activity: **[the-vivek-sharma.vercel.app/github](https://the-vivek-sharma.vercel.app/github)**
 
 ---
 
@@ -83,15 +83,9 @@ public struct AboutMe {
     <img src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.567656563.1729960123" alt="Instagram" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>&nbsp;&nbsp;
   <a href="https://dev.to/viveksh76483611" target="_blank" style="margin: 0 40px;">
-    <img src="https://shorturl.at/0oOME" alt="vivek sharma's DEV Profile" width="35" height="35" style="filter: grayscale(100%);"/>
+    <img src="https://skillicons.dev/icons?i=devto" alt="vivek sharma's DEV Profile" width="35" height="35" style="filter: grayscale(100%);"/>
   </a>
 </div>
-
----
-
-
-[![Slv-webTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slv-webTech&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true&cache_seconds=1800)](https://github.com/Slv-webTech/github-readme-stats) &emsp; &emsp; &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slv-webTech&layout=compact&langs_count=8&theme=blue-green)
-![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-webTech&theme=chartreuse-dark)
 
 ---
 
@@ -109,6 +103,5 @@ I’m always open to discussing new projects, innovative ideas, and opportunitie
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Slv-webTech&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Slv-WebTech&abbreviated=true)
 ---
-
