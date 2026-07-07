@@ -54,44 +54,113 @@ class VivekSharma implements Engineer {
 
 ## 🧑‍💻 Tech Stack
 
-**Languages & Core Runtime**
+### Languages & Core Runtime
 ![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-**Frontend & State**
+---
+
+### Frontend & State
 ![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Vite](https://skillicons.dev/icons?i=vite) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-**UI & Design**
+---
+
+### UI & Design
 ![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma)
 
-**Data & Distributed Services**
+---
+
+### Data & Distributed Services
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Quality & Deployment**
+---
+
+### Quality & Deployment
 ![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![Docker](https://skillicons.dev/icons?i=docker) &nbsp; ![Jest](https://skillicons.dev/icons?i=jest) &nbsp; ![Webpack](https://skillicons.dev/icons?i=webpack) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![Notion](https://skillicons.dev/icons?i=notion)
 
-**Also Comfortable With**
+---
+
+<details>
+<summary><b>Also comfortable with</b> — secondary stack &amp; libraries without a dedicated icon</summary>
+<br>
+
 ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
 
-**Also using:** `React Query` `React Router` `Framer Motion` `React Native` `WebSocket` `OAuth 2.0 / JWT` `BullMQ` `Serverless (Vercel)` `OpenAI API` `React Testing Library` `SonarQube`
+`React Query` `React Router` `Framer Motion` `React Native` `WebSocket` `OAuth 2.0 / JWT` `BullMQ` `Serverless (Vercel)` `OpenAI API` `React Testing Library` `SonarQube`
 
-<div align="center">
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
-
-</div>
+</details>
 
 ---
 
 ## 🌱 Featured Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Shop-Now** | Accessible eCommerce site with speech-to-text browsing and shopping for differently-abled users | `HTML` `CSS` `JS` | [Live](https://slv-webtech.github.io/Shop-Now/) · [Repo](https://github.com/Slv-WebTech/Shop-Now) |
-| **Business-Consultancy** | Business consultancy site connecting clients with expert services, built with React + third-party API integration | `React` | [Live](https://slv-webtech.github.io/Business-Consultancy/) · [Repo](https://github.com/Slv-WebTech/Business-Consultancy) |
-| **Medi-Gwalior** | RGPV Hackathon project — hospital website helping COVID-19 patients find medical resources | `HTML` `CSS` `JS` `PHP` | [Live](https://slv-webtech.github.io/Medi-Gwalior/) · [Repo](https://github.com/Slv-WebTech/Medi-Gwalior) |
-| **Swarn-Project** | Hotel management site with a responsive room browser and reservation flow | `HTML` `CSS` `JS` | [Live](https://slv-webtech.github.io/Swarn-Project/) · [Repo](https://github.com/Slv-WebTech/Swarn-Project) |
-| **Hum-Hai-Na** | Single-page site for an animal welfare NGO | `HTML` `CSS` `JS` | [Live](https://slv-webtech.github.io/Hum-Hai-Na/) · [Repo](https://github.com/Slv-WebTech/Hum-Hai-Na) |
-| **inventory-management** | Stock, order, and reporting app for inventory operations | `Python` | [Repo](https://github.com/Slv-WebTech/inventory-management) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Shop-Now
+Accessible eCommerce site with speech-to-text browsing and shopping for differently-abled users.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Live Demo](https://slv-webtech.github.io/Shop-Now/) &nbsp;·&nbsp; [📦 Repository](https://github.com/Slv-WebTech/Shop-Now)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Business-Consultancy
+Consultancy site connecting clients with expert services, built with React and a third-party API integration.
+
+`React`
+
+[🔗 Live Demo](https://slv-webtech.github.io/Business-Consultancy/) &nbsp;·&nbsp; [📦 Repository](https://github.com/Slv-WebTech/Business-Consultancy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Medi-Gwalior
+RGPV Hackathon project — hospital website helping COVID-19 patients find medical resources.
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+[🔗 Live Demo](https://slv-webtech.github.io/Medi-Gwalior/) &nbsp;·&nbsp; [📦 Repository](https://github.com/Slv-WebTech/Medi-Gwalior)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Swarn-Project
+Hotel management site with a responsive room browser and reservation flow.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Live Demo](https://slv-webtech.github.io/Swarn-Project/) &nbsp;·&nbsp; [📦 Repository](https://github.com/Slv-WebTech/Swarn-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 Hum-Hai-Na
+Single-page site for an animal welfare NGO.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Live Demo](https://slv-webtech.github.io/Hum-Hai-Na/) &nbsp;·&nbsp; [📦 Repository](https://github.com/Slv-WebTech/Hum-Hai-Na)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 inventory-management
+Stock, order, and reporting app for inventory operations.
+
+`Python`
+
+[📦 Repository](https://github.com/Slv-WebTech/inventory-management)
+
+</td>
+</tr>
+</table>
 
 For live star/fork counts, see the [GitHub Activity page](https://the-vivek-sharma.vercel.app/github) — badge-card services here kept going down, so this profile links to real data instead of embedding more of them.
 
@@ -144,5 +213,13 @@ I'm always open to discussing new projects, innovative ideas, and opportunities 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Slv-WebTech&abbreviated=true&color=16f2b3&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 </div>
