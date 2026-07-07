@@ -2,32 +2,41 @@
 
 ![Slv-WebTech](https://github.com/user-attachments/assets/f7003ebc-fcae-4f56-8733-d15076f4b9c1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=650&height=50&lines=Front-End+Developer+%7C+React+%26+Next.js;Turning+ideas+into+interfaces;Open+to+full-time+opportunities)](https://the-vivek-sharma.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=650&height=50&lines=Frontend+%2F+Full-Stack+Engineer;React+%2C+Next.js+%2C+Node.js+%2C+TypeScript;Open+to+Full-Time+Opportunities)](https://the-vivek-sharma.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-16F2B3?style=for-the-badge&logo=vercel&logoColor=black)](https://the-vivek-sharma.vercel.app)
-[![GitHub Activity](https://img.shields.io/badge/GitHub_Activity-1a1443?style=for-the-badge&logo=github&logoColor=16F2B3)](https://the-vivek-sharma.vercel.app/github)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DMyYJ43lSILc8FyrjmqrmKbQabmenq-t/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksupmanyu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1224?style=for-the-badge&logo=vercel&logoColor=16F2B3)](https://the-vivek-sharma.vercel.app)
+[![GitHub Activity](https://img.shields.io/badge/GitHub_Activity-0d1224?style=for-the-badge&logo=github&logoColor=16F2B3)](https://the-vivek-sharma.vercel.app/github)
+[![Resume](https://img.shields.io/badge/Resume-0d1224?style=for-the-badge&logo=googledrive&logoColor=16F2B3)](https://drive.google.com/file/d/1DMyYJ43lSILc8FyrjmqrmKbQabmenq-t/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-0d1224?style=for-the-badge&logo=gmail&logoColor=16F2B3)](mailto:viveksupmanyu@gmail.com)
 
-🟢 **Open to work** &nbsp;·&nbsp; 📍 Bangalore, India
+🟢 **Open to work** &nbsp;·&nbsp; 📍 Bangalore, India &nbsp;·&nbsp; 3+ yrs experience
 
 </div>
 
 ---
 
-```javascript
-public struct AboutMe {
-    let name = "Vivek Sharma"
-    var pronouns = ["he", "him"]
+```typescript
+interface Engineer {
+  readonly name: string;
+  readonly role: string;
+  readonly experience: string;
+  readonly stack: string[];
+}
 
-    let profession = "Front-End Developer with 3+ Years Experience in React.js, Next.js, JavaScript, TypeScript"
+class VivekSharma implements Engineer {
+  readonly name = "Vivek Sharma";
+  readonly role = "Frontend / Full-Stack Engineer";
+  readonly experience = "3+ years";
+  readonly stack = ["React", "Next.js", "TypeScript", "Node.js"];
 
-    var keyHighlights = [
-        "🚀 Enhanced Delivery: Achieved a 60% improvement in delivery times, contributing to a smoother user experience.",
-        "🌟 User-Centric Development: Garnered positive feedback from 100+ users, showcasing the impact of my work.",
-        "🛠️ Technical Proficiency: Strong skills in React.js, Next.js, JavaScript, TypeScript. API integration, and state management.",
-        "🤝 Collaboration: Effective teamwork with cross-functional teams to achieve project goals and drive results."
-    ]
+  readonly impact: string[] = [
+    "Raised Lighthouse performance scores ~20% and cut unnecessary re-renders ~40%",
+    "Restructured a reporting dashboard around custom hooks, cutting generation latency ~30%",
+    "Hardened OAuth/JWT auth flows and fixed cross-browser edge cases, reducing bug reports ~25%",
+    "Owns the full loop: component architecture, API contracts, performance, and release",
+  ];
+
+  readonly currentlyBuilding = "A live, API-driven portfolio — see it below";
 }
 ```
 
@@ -43,16 +52,21 @@ public struct AboutMe {
 
 ---
 
-## 🧑‍💻 My Tech Stack
+## 🧑‍💻 Tech Stack
 
-**Front-end**
-![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp;  ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp;  ![React](https://skillicons.dev/icons?i=react)  &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Primary Stack**
+![HTML](https://skillicons.dev/icons?i=html) &nbsp; ![CSS](https://skillicons.dev/icons?i=css) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=typescript) &nbsp; ![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp; ![Vite](https://skillicons.dev/icons?i=vite)
 
-**Back-end**
-![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
+**Databases & Caching**
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql) &nbsp; ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb) &nbsp; ![Firebase](https://skillicons.dev/icons?i=firebase) &nbsp; ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Tools & Platforms**
-![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![Sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Dev.to](https://skillicons.dev/icons?i=devto) &nbsp;  ![Notion](https://skillicons.dev/icons?i=notion) &nbsp;  ![WebStorm](https://skillicons.dev/icons?i=webstorm) &nbsp;  ![Android Studio](https://skillicons.dev/icons?i=androidstudio) &nbsp;  ![Figma](https://skillicons.dev/icons?i=figma)
+**Also Comfortable With**
+![Redux](https://skillicons.dev/icons?i=redux) &nbsp; ![Express](https://skillicons.dev/icons?i=express) &nbsp; ![Material UI](https://skillicons.dev/icons?i=materialui) &nbsp; ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![WordPress](https://skillicons.dev/icons?i=wordpress) &nbsp; ![jQuery](https://skillicons.dev/icons?i=jquery) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp)
+
+**Testing & Tooling**
+![Jest](https://skillicons.dev/icons?i=jest) &nbsp; ![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![Docker](https://skillicons.dev/icons?i=docker) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![AWS](https://skillicons.dev/icons?i=aws) &nbsp; ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) &nbsp; ![Webpack](https://skillicons.dev/icons?i=webpack) &nbsp; ![NPM](https://skillicons.dev/icons?i=npm) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma) &nbsp; ![Notion](https://skillicons.dev/icons?i=notion)
+
+**Also using:** `React Query` `React Router` `Framer Motion` `React Native` `WebSocket` `OAuth 2.0 / JWT` `BullMQ` `Serverless (Vercel)` `OpenAI API` `React Testing Library` `SonarQube`
 
 <div align="center">
 
@@ -81,12 +95,10 @@ For live star/fork counts, see the [GitHub Activity page](https://the-vivek-shar
 
 <div align="center">
 
-![followers](https://img.shields.io/github/followers/Slv-WebTech?style=for-the-badge&label=followers&color=16f2b3&labelColor=1a1443)
-![stars](https://img.shields.io/github/stars/Slv-WebTech/Shop-Now?style=for-the-badge&label=Shop-Now%20stars&color=16f2b3&labelColor=1a1443)
+![followers](https://img.shields.io/github/followers/Slv-WebTech?style=for-the-badge&label=followers&color=16f2b3&labelColor=0d1224)
+![stars](https://img.shields.io/github/stars/Slv-WebTech/Shop-Now?style=for-the-badge&label=Shop-Now%20stars&color=16f2b3&labelColor=0d1224)
 
-![Slv-WebTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slv-WebTech&theme=chartreuse-dark)
-
-**Full contribution calendar, current/longest streaks, top languages, and recent activity:**
+**Full contribution calendar, current/longest streaks, top languages, and recent activity — live, not a cached image:**
 **[the-vivek-sharma.vercel.app/github](https://the-vivek-sharma.vercel.app/github)**
 
 </div>
@@ -97,10 +109,10 @@ For live star/fork counts, see the [GitHub Activity page](https://the-vivek-shar
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viveksh76483611/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveksharma5u/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_r.r_upmanyu_ji.s_son/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/viveksh76483611)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1224?style=for-the-badge&logo=linkedin&logoColor=16F2B3)](https://www.linkedin.com/in/viveksharma5u/)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1224?style=for-the-badge&logo=twitter&logoColor=16F2B3)](https://twitter.com/viveksh76483611/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0d1224?style=for-the-badge&logo=devdotto&logoColor=16F2B3)](https://dev.to/viveksh76483611)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1224?style=for-the-badge&logo=instagram&logoColor=16F2B3)](https://www.instagram.com/the_r.r_upmanyu_ji.s_son/)
 
 </div>
 
